@@ -1,1 +1,1 @@
-# -MAGOIA
+# MAGO-IA
